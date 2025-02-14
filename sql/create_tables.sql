@@ -7,7 +7,7 @@ CREATE TABLE keywords (
 
 CREATE TABLE uris (
     id INTEGER NOT NULL,
-    uri VARCHAR(500) NOT NULL,
+    url VARCHAR(500) NOT NULL,
     PRIMARY KEY(id)
 );
 

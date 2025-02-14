@@ -16,7 +16,7 @@ Use **`bulkload_tables.sql`** to load data into the tables.
 
 ## Query Solutions
 
-- The solutions for **Section B, Problem 2** are provided in SQL files with the following naming convention:
+- The solutions for **Section B, Problem 2** are provided in SQL files (in the sql directory) with the following naming convention:
   - **`Problem2_Q<num>.sql`** → Solution to Question `<num>`
   - **Example:** The solution to Question 1 is in **`Problem2_Q1.sql`**.
 

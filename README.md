@@ -23,7 +23,7 @@ Use **`bulkload_tables.sql`** to load data into the tables.
 ## Explanations
 
 - Detailed explanations of the queries can be found in the report:  
-**[`NoSQL_Assignment_1_report.pdf`](NoSQL_Assignment_1_report.pdf)**
+**[`NoSQL_Assignment_1_report.pdf`]([NoSQL_Assignment_1_report.pdf](https://github.com/MightyShashank/DAS-839-NoSQL---Postgres/blob/main/NoSQL_Assignment_1_report.pdf))**
 
 ---
 
